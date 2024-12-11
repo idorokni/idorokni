@@ -1,7 +1,4 @@
 # Hi 👋, **I'm Ido Rokni (Software Developer)** 🇮🇱  
-<br />
-<img src='./vector.svg' width="100%">
-<br />
 
 **A passionate software developer with experience in game development, AI, high-level programming, and now diving deep into low-level programming and cybersecurity. I believe that cybersecurity is the field I want to pursue for the rest of my life, and I’m excited to explore its depths.**
 
@@ -53,10 +50,13 @@ Here's a glimpse of the skills I bring to the table:
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love solving security challenges and reverse-engineering software.
 
+![Ido's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IdoRokni&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff)
+
 <a href="https://github.com/IdoRokni">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IdoRokni&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
 </a>
 <br />
+
 <br />
 <a href="https://github.com/IdoRokni">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IdoRokni&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
