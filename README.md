@@ -4,9 +4,9 @@
 
 ## About Me
 
-- **Experienced in high-level programming, game development, and AI.**
-- **Currently learning low-level programming and cybersecurity to strengthen my skills in system security and network defense.**
-- **Worked on a variety of projects ranging from games to AI systems, and now focused on secure software development and ethical hacking.**
+- **Experienced in high-level programming, game development, OS Development and low level programming.**
+- **Currently learning low-level programming, OS Development and cybersecurity to strengthen my skills.**
+- **Worked on a variety of projects ranging from games to an OS, and now focused on low level progeamming and cybersecurity.**
 - **Dedicated to continuous learning and growth, constantly exploring new technologies and techniques in the world of programming and security.**
 - **I believe in the importance of securing systems to protect data, privacy, and the integrity of software.**
 
@@ -16,34 +16,16 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-#### Let's Connect On:
-<a href="https://www.linkedin.com/in/ido-rokni/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" /> 
-</a>
-
-<a href="https://twitter.com/ido_rokni">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="" /> 
-</a>
-
-<a href="https://github.com/IdoRokni">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="" /> 
-</a>
-
-<a href="https://instagram.com/ido.rokni">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="" /> 
-</a>
-
 ## Skills
 
 Here's a glimpse of the skills I bring to the table:
 
-- **Programming Languages**: C, C++, Python, JavaScript, Assembly
+- **Programming Languages**: C, C++, Python, JavaScript, Assembly, C#, html, css
 - **Game Development**: Unity, Unreal Engine, and other game development frameworks
-- **AI & Machine Learning**: TensorFlow, PyTorch, neural networks
-- **Low-Level Programming**: Assembly, Kernel development, Memory Management
-- **Cybersecurity**: Ethical hacking, Penetration testing, OSINT, Security protocols, Network security
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools & Technologies**: GDB, Wireshark, Burp Suite, Kali Linux
+- **AI & Machine Learning**: PyTorch, neural networks
+- **Low-Level Programming**: Assembly, C, OS Development
+- **Databases**: MySQL, MongoDB
+- **Tools & Technologies**: GDB, Wireshark, Bochs, Qemu, React 
 - **Operating Systems**: Linux, Windows, macOS
 
 ## What I'm doing presently?
@@ -54,7 +36,7 @@ Here's a glimpse of the skills I bring to the table:
 - 📫 <a href="mailto:ido.rokni@gmail.com">Send an email</a>
 - 😄 Pronouns: He / Him
 
-![Ido's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IdoRokni&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff)
+![Ido's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IdoRokni&theme=react-dark&hide_border=true&bg_color=1E1D1D&color=EE6047&line=EE6047&point=EE6047)
 
 <a href="https://github.com/IdoRokni">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IdoRokni&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&bg_color=1E1D1D&title_color=EE6047&text_color=EE6047" width="500" />
@@ -63,9 +45,11 @@ Here's a glimpse of the skills I bring to the table:
 
 <br />
 <a href="https://github.com/IdoRokni">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IdoRokni&show_icons=true&theme=prussian&hide_border=true&bg_color=1E1D1D&title_color=EE6047&text_color=EE6047" width="500" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IdoRokni&show_icons=true&theme=prussian&hide_border=true&bg_color=1E1D1D&title_color=EE6047&text_color=EE6047&icon_color=EE6047" width="500" />
 </a>
 <a href="https://github.com/IdoRokni">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IdoRokni&theme=prussian&hide_border=true&bg_color=1E1D1D&stroke=EE6047&ring=EE6047&fire=EE6047&currStreakNum=EE6047&sideNums=EE6047&currStreakLabel=EE6047&sideLabels=EE6047&dates=EE6047" width="500" />
 </a>
+
+
 
