@@ -55,13 +55,11 @@ Here's a glimpse of the skills I bring to the table:
 
 ## What I'm doing presently?
 
-- 🔭 I’m currently learning about **low-level programming** and **cybersecurity** to deepen my knowledge in system security.
-- 🌱 I’m studying **network security**, **cryptography**, and **ethical hacking**.
+- 🔭 I’m currently diving into **low-level programming** and **cybersecurity** to deepen my knowledge in system security.
 - 👯 I’m open to collaborating on **security projects**, **open-source contributions**, and **game development**.
-- 💬 Ask me *anything* about `programming`, `cybersecurity`, or `AI`.
+- 💬 Ask me *anything* about `programming`, `cybersecurity`, or `OS Development`.
 - 📫 <a href="mailto:ido.rokni@gmail.com">Send an email</a>
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I love solving security challenges and reverse-engineering software.
 
 ![Ido's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IdoRokni&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff)
 
