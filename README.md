@@ -47,9 +47,6 @@ Here's a glimpse of the skills I bring to the table:
 <a href="https://github.com/IdoRokni">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IdoRokni&show_icons=true&theme=prussian&hide_border=true&bg_color=1E1D1D&title_color=EE6047&text_color=EE6047&icon_color=EE6047" width="500" />
 </a>
-<a href="https://github.com/IdoRokni">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IdoRokni&theme=prussian&hide_border=true&bg_color=1E1D1D&stroke=EE6047&ring=EE6047&fire=EE6047&currStreakNum=EE6047&sideNums=EE6047&currStreakLabel=EE6047&sideLabels=EE6047&dates=EE6047" width="500" />
-</a>
 
 
 
