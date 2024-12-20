@@ -35,7 +35,6 @@ Here's a glimpse of the skills I bring to the table:
 - 💬 Ask me *anything* about `programming`, `cybersecurity`, or `OS Development`.
 - 📫 <a href="mailto:ido.rokni@gmail.com">Send an email</a>
 - 😄 Pronouns: He / Him
-- 
 <br />
 
 <br />
