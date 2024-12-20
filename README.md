@@ -35,12 +35,7 @@ Here's a glimpse of the skills I bring to the table:
 - 💬 Ask me *anything* about `programming`, `cybersecurity`, or `OS Development`.
 - 📫 <a href="mailto:ido.rokni@gmail.com">Send an email</a>
 - 😄 Pronouns: He / Him
-
-![Ido's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IdoRokni&theme=react-dark&hide_border=true&bg_color=1E1D1D&color=EE6047&line=EE6047&point=EE6047)
-
-<a href="https://github.com/IdoRokni">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IdoRokni&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&bg_color=1E1D1D&title_color=EE6047&text_color=EE6047" width="500" />
-</a>
+- 
 <br />
 
 <br />
