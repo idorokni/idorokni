@@ -38,9 +38,7 @@ Here's a glimpse of the skills I bring to the table:
 <br />
 
 <br />
-<a href="https://github.com/IdoRokni">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IdoRokni&show_icons=true&theme=prussian&hide_border=true&bg_color=1E1D1D&title_color=EE6047&text_color=EE6047&icon_color=EE6047" width="500" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
