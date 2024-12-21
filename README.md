@@ -37,8 +37,10 @@ Here's a glimpse of the skills I bring to the table:
 - 😄 Pronouns: He / Him
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idorokni&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
